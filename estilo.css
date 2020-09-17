@@ -40,13 +40,13 @@ li:hover {
     text-align: center;
     background-size: cover;
 }
-#título {
+#titulo {
     color: #AD0A3D;
     padding-top: 10%;
     font-size: 40px;
     font-family: 'Playfair Display', serif;
 }
-#subtítulo {
+#subtitulo {
     color: black;
     padding-left: 20%;
     padding-right: 20%;
@@ -54,7 +54,7 @@ li:hover {
     font-family: 'Gayathri', sans-serif;
     font-family: 'Roboto', sans-serif;
 }
-#ação {
+#acao {
     color:#5E0622;
     border: 2px #5E0622 solid;
     padding: 10px 10px 10px 10px;
@@ -64,12 +64,12 @@ li:hover {
     color: black;
     padding-top: 20px;
 }
-.ícone {
+.icone {
     width:50%;
     padding: 25%;
     position:relative;
 }
-#seleção {
+#selecao {
     padding-left: 25px;
     background-size: cover;
 }
@@ -121,7 +121,7 @@ li:hover {
     background-size: cover;
     float: left;
 }
-#citação {
+#citacao {
     background-size: cover;
     float: right;
 }
